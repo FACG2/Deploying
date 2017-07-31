@@ -19,10 +19,6 @@ In a PaaS model, a cloud provider delivers hardware and software tools -- usuall
 1. allows developers to frequently change or upgrade operating system features.
 2. It also helps development teams collaborate on projects.
 
-### PaaS providers for key services, such as:
-1. Java development
-2. application hosting.
-
 ## Environment Variables
 Are the best way of storing sensitive data like API Keys, Login Credentials and Database Passwords.
 (Printenv) to view all environment variables
